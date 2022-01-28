@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Grids, Flexbox and Js**
+- 💬 Ask me about **Grid, Flexbox and Js**
 
 - 📫 How to reach me **jbarinaspabon@gmail.com**
 
